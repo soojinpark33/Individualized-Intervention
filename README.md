@@ -18,7 +18,7 @@ Here, we provide `R` codes to reproduce our simulation study and replicate our d
 
 * Data
   
-The HSLS:09 data used for the case study can be downloaded from the MIDUS portal by clicking [here](https://nces.ed.gov/surveys/hsls09.asp). 
+The HSLS:09 data used for the case study can be downloaded from the MIDUS portal by clicking [here](https://nces.ed.gov/surveys/hsls09/hsls09_data.asp). 
 
 * `individualized_HSLS.R` 
  
