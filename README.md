@@ -18,20 +18,17 @@ Here, we provide `R` codes to reproduce our simulation study and replicate our d
 
 * Data
   
-The HSLS:09 data used for the case study is available through NCES (\texttt{https://nces.ed.gov/surveys/hsls09.asp}).
+The HSLS:09 data used for the case study can be downloaded from the MIDUS portal by clicking [here](https://nces.ed.gov/surveys/hsls09.asp). 
 
-* `SensAnal_Manuscript.R` 
+* `individualized_HSLS.R` 
  
-   This `R` file replicates Table 1 and Figures 2 and 3 of our study.
+   This `R` file replicates Tables 1 and 2 of our study.
 
 ## Simulation Study
 
-* `SensAnal_AppendixE.R`  
+* `Pop_simulation.R`  
 
-   This `R` file contains the simulation codes for our propposed $R^2$-based sensitivity analysis. This code replicates our results in Appendix E of our paper.
+   This `R` file contains the simulation codes for evaluating the performance of the proposed estimators for each individualized effect. This code replicates our results in Appendix D of our paper.
 
-* `SensAnal_source.R` 
- 
-   This `R` file includes source functions required to run our simulation codes. 
 
 These supplementary materials are provided solely for the purpose of reproducibility and must be used in compliance with academic ethical guidelines. If you reference these materials in your own work, please ensure proper citation of the original sources.
