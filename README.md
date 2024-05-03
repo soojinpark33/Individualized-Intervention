@@ -1,4 +1,4 @@
-# Individualized_Intervention
+# Causal Decomposition Analysis with Time-Varying Mediators: Designing Individualized Interventions to Reduce Social Disparities
 
 Soojin Park<sup>1</sup>, Namhwa Lee<sup>2</sup>, and Rafael Quintana<sup>3</sup>
 
