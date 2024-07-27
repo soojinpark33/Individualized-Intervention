@@ -11,7 +11,7 @@ Soojin Park<sup>1</sup>, Namhwa Lee<sup>2</sup>, and Rafael Quintana<sup>3</sup>
 
 Causal decomposition analysis aims to identify risk factors (referred to as ‘mediators’) that contribute to social disparities in an outcome. Despite promising developments in causal decomposition analysis, current methods are limited to addressing a time-fixed mediator and outcome only, which has restricted our understanding of the causal mechanisms underlying social disparities. In particular, existing approaches largely overlook individual characteristics when designing (hypothetical) interventions to reduce disparities. To address this issue, we extend current longitudinal mediation approaches to the context of disparities research. Specifically, we develop a novel decomposition analysis method that addresses individual characteristics by (1) using optimal dynamic treatment regimes (DTRs) and (2) conditioning on a selective set of individual characteristics. Incorporating optimal DTRs into the design of interventions can be used to strike a balance between equity (reducing disparities) and excellence (improving individuals' outcomes). We illustrate the proposed method using the High School Longitudinal Study data.
 
-For more details of our proposed methods, see [our paper](XX). 
+For more details of our proposed methods, see [our paper](https://journals.sagepub.com/doi/10.1177/00491241241264562). 
 Here, we provide `R` codes to reproduce our simulation study and replicate our data analysis. 
 
 ## Case Study
